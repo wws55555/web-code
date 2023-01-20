@@ -1,0 +1,36 @@
+body {
+    color: #070707;
+    font-family: Poppins, 'Noto Sans KR', Arial, AppleGothic;
+}
+div {
+    background-color: #aa8fe5; 
+    text-align: center; 
+    padding: 20px;
+    width: 560px;
+}
+h2 {
+    color: #ffffff; 
+    font-size: 20px;
+}
+p {
+    background-color: #f6f1ff; 
+    color: #040404;
+}
+img {
+    width: 100%;
+}
+span {
+    font-weight: 700;
+}
+.red {
+    color: #ec0a0a
+}
+.blue {
+    color: #2723de
+}
+.yellow {
+    color: #dac41d
+}
+#green {
+    color: #14a135
+}
