@@ -9,12 +9,16 @@ div {
     width: 560px;
 }
 h2 {
-    color: #ffffff; 
-    font-size: 20px;
+    color: rgb(255, 255, 255); 
+    font-size: 1.7rem;
 }
 p {
     background-color: #f6f1ff; 
-    color: #040404;
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+}
+a {
+    text-decoration: none;
 }
 img {
     width: 100%;
@@ -23,14 +27,14 @@ span {
     font-weight: 700;
 }
 .red {
-    color: #ec0a0a
+    color: rgb(255, 0, 0)
 }
 .blue {
-    color: #2723de
+    color: rgb(0, 0, 255)
 }
 .yellow {
-    color: #dac41d
+    color: rgb(255, 200, 0)
 }
 #green {
-    color: #14a135
+    color: rgb(0, 200, 0)
 }
